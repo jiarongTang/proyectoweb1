@@ -1,0 +1,30 @@
+Saga principal de pokemon (juegos)
+pokemon rojo
+pokemon azul
+pokemon verde
+pokemon amarillo
+pokemon oro
+pokemon plata
+pokemon cristal
+pokemon rubi
+pokemon zafiro
+pokemon esmeralda
+pokemon rojo fuego
+pokemon verde hoja
+pokemon diamante
+pokemon perla
+pokemon platino
+pokemon heartgold
+pokemon soul silver
+pokemon negro
+pokemon blanco
+pokemon negro2
+pokemon blanco2
+pokemon x
+pokemon y
+pokemon rubi omega
+pokemon zafiro alfa
+pokemon sol
+pokemon luna
+pokemon ultrasol
+pokemon ultraluna

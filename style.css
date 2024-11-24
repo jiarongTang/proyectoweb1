@@ -3,3 +3,43 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+header{
+    background-color: orange;
+    display: flex;
+    position: fixed;
+    z-index: 1;
+    width: 100svw;
+}
+
+li{
+    text-decoration: none;
+    list-style: none; 
+}
+
+ul {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+}
+
+header > nav{
+    display: flex;
+    width: 100%;
+}
+
+a {
+    color: purple;
+    text-decoration: none;
+}
+
+a:hover{
+    color: slateblue;
+}
+
+main{
+    position: relative;
+    padding-top: 50px;
+    z-index: 0;
+}
